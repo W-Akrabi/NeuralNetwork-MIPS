@@ -1,5 +1,5 @@
-# Simple Neural Network implementation in MIPS using fixed-point arithmetic
-# This implements a single-layer neural network (logistic regression)
+# Simple Neural Network implementation
+# single-layer neural network (logistic regression)
 # for binary classification with 3 input features
 # Fixed-point format: Q8.8 (8 bits integer, 8 bits fractional)
 # This means we multiply floating point by 256 (2^8)
